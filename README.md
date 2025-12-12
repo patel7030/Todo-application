@@ -56,6 +56,10 @@ Deployment
 Frontend is deployed on Vercel with the environment variable NEXT_PUBLIC_API_URL.
 Backend is deployed on Railway with MySQL connected using environment variables.
 
+Why Not Use a Single Platform?
+Vercel is optimized for Next.js and provides fast global delivery for frontend apps, whereas Railway offers easier setup for backend servers and managed MySQL hosting.  
+Using both platforms ensures better performance, simpler configuration, and smooth scaling compared to deploying everything on one platform.
+
 Features
 Add tasks, update status, delete tasks, filter tasks (All, Active, Completed), responsive UI for mobile and desktop.
 
