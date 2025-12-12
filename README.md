@@ -46,7 +46,11 @@ PUT /todos/:id – Update todo status
 DELETE /todos/:id – Delete a todo
 
 UI Screenshots
-(Add home, add-task, and mobile view screenshots inside a /screenshots folder.)
+1)<img width="1906" height="957" alt="todo-active" src="https://github.com/user-attachments/assets/d1ac627f-fcaa-43c8-84fd-d5bc603a0652" />
+2)<img width="266" height="577" alt="todo-completed-mobile" src="https://github.com/user-attachments/assets/0197d9ab-8103-45c6-9eb3-250dafb4bc18" />
+3)<img width="267" height="553" alt="todo-empty-mobile" src="https://github.com/user-attachments/assets/4d14eab0-ced5-40ff-95f2-f09de8b7d1e1" />
+4)<img width="1915" height="967" alt="todo-full" src="https://github.com/user-attachments/assets/d88e433d-c337-4408-a601-aa7ed38c5c7c" />
+
 
 Deployment
 Frontend is deployed on Vercel with the environment variable NEXT_PUBLIC_API_URL.
